@@ -8,10 +8,10 @@
   },
   {
     "city_id": 2,
-    "city": "Los Angelas",
+    "city": "Las Vegas",
     "state": "CA",
     "region": "West",
-    "updated_at" : "2026-04-24T22:35:36.656+00:00"
+    "updated_at" : "2026-04-24T20:35:36.656+00:00"
   },
   {
     "city_id": 3,
